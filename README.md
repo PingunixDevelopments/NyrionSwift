@@ -21,4 +21,4 @@ With these advancements, Nyrion Swift was born — an evolution, not just a succ
 
 **Power starts at the command line**
 
-<img width="512" height="512" alt="Untitled-1" src="https://github.com/user-attachments/assets/58e7431c-6e40-48a3-81e6-9423a43aa454" />
+
