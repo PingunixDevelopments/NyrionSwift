@@ -1,5 +1,7 @@
 # Nyrion Swift
 
+**DISCONTINUED!**
+
 Nyrion Swift is a lightweight, Aeon-based CLI built to deliver speed, reliability, and simplicity.
 After the success of Aeon, which has now officially reached end of feature support, Nyrion Swift continues its legacy — rebuilt from the ground up with a modern foundation and a sharper focus on performance and maintainability.
 
